@@ -1,0 +1,58 @@
+[
+   {
+      "_phone": "+7 960 915 48 08",
+      "_first_name": "Bostan",
+      "_second_name": "Sergey",
+      "_father_name": null,
+      "_organisation": null,
+      "_work_phone": null
+   },
+   {
+      "_phone": "+79509201223",
+      "_first_name": "Иванов",
+      "_second_name": "Иван",
+      "_father_name": "Иванович",
+      "_organisation": "Good Company",
+      "_work_phone": "+74953654235"
+   },
+   {
+      "_phone": "+79609206523",
+      "_first_name": "Иванов",
+      "_second_name": "Григорий",
+      "_father_name": "Петрович",
+      "_organisation": "Bad Company",
+      "_work_phone": "+74953654565"
+   },
+   {
+      "_phone": "+79504325678",
+      "_first_name": "Герасимов",
+      "_second_name": "Николай",
+      "_father_name": "Тимофеевич",
+      "_organisation": "Рога и копыта",
+      "_work_phone": "+74863654200"
+   },
+   {
+      "_phone": "+7 999-354-67-89",
+      "_first_name": "Николаев",
+      "_second_name": "Герман",
+      "_father_name": "Григорьевич",
+      "_organisation": "ООО Питон и компания",
+      "_work_phone": null
+   },
+   {
+      "_phone": "2374562",
+      "_first_name": "Сидоров",
+      "_second_name": "Тимофей",
+      "_father_name": null,
+      "_organisation": "Хорошие дела",
+      "_work_phone": null
+   },
+   {
+      "_phone": "73842453623",
+      "_first_name": "Кузьмин",
+      "_second_name": "Вячеслав",
+      "_father_name": null,
+      "_organisation": "Смайл",
+      "_work_phone": null
+   }
+]
